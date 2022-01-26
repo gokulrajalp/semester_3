@@ -5,4 +5,4 @@ During our Semester 3, me and my department colleague used this site to refer th
 
 Click here to view https://gokulrajalp.github.io/semester_3/
 
-Technologies used --> HTML, CSS
+Technologies used --> HTML, CSS, JavaScript
